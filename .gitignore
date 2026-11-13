@@ -3,3 +3,7 @@ bst-test
 equal-paths-test
 *.o
 
+hw4_tests/
+bst-test
+equal-paths-test
+hw4_tests.tar.gz
